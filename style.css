@@ -1,0 +1,45 @@
+.bag {
+    background-color:#05212D;
+}
+.menu{
+    color: aliceblue;
+}
+ul{
+    margin-left: 50%;
+}
+.img{
+    background-size:cover;
+    background-repeat: no-repeat;
+   
+   
+} 
+.txt{
+    position: relative;
+ text-align: center;
+ margin-top: -400px;
+ font-size: 2rem;
+ color: #05212D;
+}
+H2{
+    text-align: center;
+}
+.row{
+   margin-left: 25px;
+}
+.footer{
+    background-color: #05212D;
+    width:auto;
+    height: 100px;
+}
+.footer p{
+    color:white;
+    bottom: -2px;
+    margin-left: 25px;
+    text-align: center;
+}
+.foot img{
+    position: relative;
+    margin-left: 80%;
+    width: 100px;
+    margin-top: -40px;
+}
